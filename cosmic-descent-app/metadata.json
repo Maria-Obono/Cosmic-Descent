@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Descent",
+  "description": "An immersive 3D voxel experience where players must prevent world collapse by lowering the cosmic count.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
